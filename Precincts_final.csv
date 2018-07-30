@@ -1,0 +1,17 @@
+id,precinctName,name,precinctID,precinctTypology,levels,height,numberOfUnits,heightCluster,plotArea,floorArea,tileArea,floorAreaRatio,yearOfCompletion
+1,"Tiong Bahru, Bukit Merah",low-rise,101,1,4,15,250,1,0.0064,0.0256,0.022523,1.1,1973
+2,"Chinatown, Central Area",low-rise | shops,102,1,2,10,250,1,0.009,0.018,0.021784,0.8,1920
+3,"Linear Green, Bedok",HDB: mid-rise,201,2,17,50,1000,2,0.015386,0.261562,0.04173,6.3,2008
+4,"The Premiere, Tampines",HDB: mid-rise | shops,202,2,17,50,750,2,0.007934,0.134878,0.023496,5.7,2009
+5,"Membina Court, Bukit Merah",HDB: high-rise | shops | green,203,2,30,90,1000,3,0.008753,0.26259,0.040198,6.5,2007
+6,"The Peak, Lorong 1A, Toa Payoh",HDB: high-rise | shops,204,2,40,120,1250,3,0.00695,0.278,0.031572,8.8,2012
+7,"Central Horizon, Toa Payoh",HDB: high-rise | green,205,2,40,120,1250,3,0.00671,0.2214,0.034767,6.4,2008
+8,"City View @ Boon Keng, Kallang",HDB: high-rise,206,2,40,120,750,3,0.0033,0.132,0.012377,10.7,2008
+9,"Pinnacle @ Duxton, Bukit Merah",HDB: high-rise | green,207,2,50,150,1000,3,0.003758,0.1879,0.020053,9.4,2009
+10,"Savannah Condopark, Tampines",Condo: mid-rise,301,3,12,40,750,2,0.008848,0.106176,0.026931,3.9,2005
+11,"Sky Habitat, Bishan",Condo: high-rise | green,302,3,38,140,500,3,0.00356,0.106931,0.018921,5.7,2015
+12,"D'Leedon, Bukit Timah",Condo: high-rise,303,3,36,140,1500,3,0.010151,0.365436,0.044066,8.3,2014
+13,greenery small,greenery small,401,,,,,,,,,,
+14,greenery medium,greenery medium,402,,,,,,,,,,
+15,greenery large,greenery large,403,,,,,,,,,,
+16,total,total,,,,,,,,,,,
